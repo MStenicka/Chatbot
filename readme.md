@@ -17,3 +17,5 @@ Po spuštění chatbot představí a můžete s ním začít komunikovat. Stač�
 ## Poznámky
 
 Tento projekt je ukázkou, jak použít GPT-3.5 Turbo od OpenAI pro tvorbu chatbotů.
+
+![Chatbot komunikace](https://github.com/MStenicka/Chatbot/blob/main/chatbot-terminal.png)
